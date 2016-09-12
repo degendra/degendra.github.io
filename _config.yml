@@ -23,3 +23,6 @@ version:             1.0.0
 
 # Disqus post comments
 disqus_shortname: degendra
+
+pages_list:
+  Archive: '/archive'

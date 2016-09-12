@@ -3,7 +3,6 @@ layout: post
 title: What's Jekyll?
 tags:
 - jekyll
-- example
 comments: true
 ---
 
